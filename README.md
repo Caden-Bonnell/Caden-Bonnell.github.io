@@ -7,3 +7,5 @@
 <p><a href="Caden-Bonnell.github.io/bacs200/inspire.html">INSPIRE</a></p>
 
 <p><a href="Caden-Bonnell.github.io/bacs200/amuse.html">AMUSE</a></p>
+
+<p><a href="Caden-Bonnell.github.io/bacs200/educate.html">EDUCATE</a></p>
