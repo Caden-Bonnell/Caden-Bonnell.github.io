@@ -1,7 +1,10 @@
 body {
-background-color: blue;
+  background-color: #FFB775;
+  text-align: center;
 }
 
-h1 { 
-  color: red;
+h1 h2 { 
+  color: black;
+  font-family: "Merriweather";
+  text-align: center;
 }
