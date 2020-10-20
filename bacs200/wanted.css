@@ -11,6 +11,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  font-family: "Merriweather";
+  font-size: 60px;
+  text-align: center;
+
 ul { 
   color: black;
   font-family:"Times New Roman";
