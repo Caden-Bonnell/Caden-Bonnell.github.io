@@ -4,7 +4,13 @@ body {
 }
 
 h1 h2 { 
-  color: black;
+  color: #FFB775;
+  background-color: black;
   font-family: "Merriweather";
   text-align: center;
+}
+
+ul { 
+  color: black;
+  font-family:"Times New Roman";
 }
