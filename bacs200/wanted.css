@@ -3,10 +3,11 @@ body {
   text-align: center;
 }
 
-h1 h2 { 
+h1 { 
   color: #FFB775;
   background-color: black;
   font-family: "Merriweather";
+  font-size: 100px;
   text-align: center;
 }
 
