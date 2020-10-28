@@ -1,0 +1,160 @@
+:root {
+    --ebmBlue: rgb(18, 54, 102);
+    --dark-grey: rgb(105, 105, 105);
+}
+
+/* Header ---------------------------------------------- */
+
+header.masthead {
+    padding-top: 20rem;
+    margin-top: 20px;
+    background: url('https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQC-rk6XT4skeBBV&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Flbs_-vUfi54%2Fmaxresdefault_live.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQBHD8XJ5fdNzNJP');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+
+}
+
+nav {
+    background-color:rgb(105, 105, 105);
+}
+
+header.masthead h1 {
+    font-size: 2.25rem;
+}
+
+header.masthead img {
+    width: 600px;
+    height: 300px;
+}
+
+.main-image {
+    margin-bottom: 200px;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+@media (min-width: 700px) {
+    header.masthead {
+        height: 100vh;
+        min-height: 40rem;
+        padding-top: 72px;
+        padding-bottom: 0;
+    }
+
+    header.masthead p {
+        font-size: 1.15rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    header.masthead h1 {
+        width: 730px;
+        height: 239px;
+    }
+}
+
+/* statementfaith ---------------------------------------------- */
+
+#core {
+    background: var(--dark-grey);
+}
+
+#core h4 {
+    margin-bottom: 10px;
+}
+
+#core .break {
+    
+    margin-left: 35spx;
+    margin-right: 35px;
+}
+
+#core ul{
+
+    font-size: 20px;
+    color: black;
+}
+
+#core p{
+    font-size: 20px;
+        color: black;
+    }
+
+/* core --------------------------------------------------*/
+
+#statementfaith h2 {
+    -webkit-text-stroke: 2px var(--ebmRed);
+    color: black;
+
+}
+
+/* series -----------------------------------------------*/
+
+#series h2 {
+    color: var(--ebmRed);
+}
+
+
+
+.series .pics {
+    -webkit-transition: all 350ms ease;
+    transition: all 350ms ease;
+}
+
+
+
+@media (max-width: 450px) {
+    .series {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+        -webkit-column-width: 100%;
+        -moz-column-width: 100%;
+        column-width: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    .btn.filter {
+        padding-left: 1.1rem;
+        padding-right: 1.1rem;
+    }
+}
+
+/* Contact ------------------------------------------------*/
+
+#contact {
+    background: var(--dark-grey);
+}
+
+#contact h2 {
+    -webkit-text-stroke: 2px var(--ebmRed);
+    color: white;
+
+}
+
+#contact label {
+    color: var(--ebmRed);
+}
+
+#contact input {
+    background: white;
+    border: 2px solid var(--ebmRed);
+    color: var(--ebmRed);
+}
+
+.message-input {
+    height: 100px;
+}
+
+
+
+
+
+
+
+
