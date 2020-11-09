@@ -8,7 +8,7 @@
 header.masthead {
     padding-top: 20rem;
     margin-top: 20px;
-    background: url('https://external.fapa1-1.fna.fbcdn.net/safe_image.php?d=AQC-rk6XT4skeBBV&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Flbs_-vUfi54%2Fmaxresdefault_live.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_cb=1&_nc_hash=AQBHD8XJ5fdNzNJP');
+    background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2sb3IVALmIv9Tzjwo-v3IwHaEK%26pid%3DApi&f=1');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -195,9 +195,27 @@ header.masthead img {
 }
 
 
+/* Author -------------------------------------*/
 
+#author {
+    background: rgb(31, 31, 32);
+}
 
+#author p {
+    color: white;
+}
 
+#me {
+    float: left;    
+    border-radius: 7px;
+    margin-right: 50px;
+    
+    
+}
+
+#words {
+    padding-left: 122pc;
+}
 
 
 
